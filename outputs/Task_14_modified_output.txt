@@ -1,0 +1,4 @@
+a = 99.83, k = 0.0915 per hour, RMSE = 0.19 %
+Battery at 12 h: 33.3 %
+Half-life: 7.57 h
+Time to reach 20%: 17.6 h

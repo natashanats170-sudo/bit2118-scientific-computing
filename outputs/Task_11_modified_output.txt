@@ -1,0 +1,2 @@
+IRR (Newton): 15.2382%, iterations 5
+IRR (Secant): 15.2382%, iterations 7

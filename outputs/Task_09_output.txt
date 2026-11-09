@@ -1,0 +1,7 @@
+Dominant eigenvalue: 2.5615528128088276
+Eigenvector-based importance:
+A: 0.2192
+B: 0.2808
+C: 0.2808
+D: 0.2192
+Verification error: 2.6921477609369894e-15

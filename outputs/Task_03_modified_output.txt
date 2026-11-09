@@ -1,0 +1,2 @@
+First three values (MB/s): [ 7.00799328 11.94271658  2.87179564]
+RMS speed: 7.64 MB/s

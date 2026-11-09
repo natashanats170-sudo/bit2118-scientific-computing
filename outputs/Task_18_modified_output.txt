@@ -1,0 +1,2 @@
+beta = 0.4: peak infected 40.6% on day 19.4, final recovered 98.0%
+beta = 0.2: peak infected 15.8% on day 43.8, final recovered 77.6%

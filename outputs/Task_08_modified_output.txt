@@ -1,0 +1,3 @@
+Gauss-Seidel temperatures: [73.75 67.5  61.25 55.   48.75 42.5  36.25]
+Direct solution:          [73.75 67.5  61.25 55.   48.75 42.5  36.25]
+Iterations: Jacobi = 263  Gauss-Seidel = 132

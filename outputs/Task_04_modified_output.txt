@@ -1,0 +1,3 @@
+Repeated addition: 100000.00000133288  error: 1.3328826753422618e-06
+np.sum: 100000.00000000003
+float32 total (true value 1000): 1000.66504

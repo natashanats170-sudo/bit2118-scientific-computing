@@ -1,0 +1,5 @@
+Mean duration: 21.33 weeks
+P(more than 20 weeks): 68.1%
+P(more than 18 weeks): 90.4%
+P(more than 22 weeks): 38.7%
+90th percentile: 24.7 weeks

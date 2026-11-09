@@ -1,0 +1,2 @@
+Guess: [3.0, 3.0] -> point: [3.75       3.30718914] residuals: [np.float64(0.0), np.float64(0.0)] converged: True
+Guess: [3.0, -3.0] -> point: [ 3.75       -3.30718914] residuals: [np.float64(0.0), np.float64(0.0)] converged: True

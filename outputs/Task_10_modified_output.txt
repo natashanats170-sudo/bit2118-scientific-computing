@@ -1,0 +1,3 @@
+First break-even: 68.218 units, steps: 36
+Second break-even: 2931.78 units
+Fixed-point answer: 68.218 after 9 iterations
